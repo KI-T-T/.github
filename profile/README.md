@@ -16,6 +16,7 @@ Der Nachteil ist, das wir durch die eingebauten SystemPrompts etwas eingeschrän
 ** Test gut lesbar / wartbar bauen (AAA)
 ** Test anhand von Interface bzw. Implementierung generieren
 ** Service mit Mock's Testen
+* https://docs.github.com/de/copilot
 * Christian & Rene
 
 ### Frontend > Langchain > LLM-API
