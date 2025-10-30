@@ -17,12 +17,12 @@ Der Nachteil ist, das wir durch die eingebauten SystemPrompts etwas eingeschrän
 ** Test anhand von Interface bzw. Implementierung generieren
 ** Service mit Mock's Testen
 * https://docs.github.com/de/copilot
-* Christian & Rene
+* Filipe & Thieng & Rene
 
 ### Frontend > Langchain > LLM-API
 Der zweite Stream programiert ein eigenes Frontend um die Anfragen direkt an das LLM-API zu senden. 
 Mit dieser Variante können wir selbst bestimmen was wir an das LLM senden. 
 
 * ...  bitte ergänzen ;-) 
-* Filipe & Lolo
+* Christian & Lolo
 
